@@ -14,3 +14,6 @@ While I am working on a submission to the chrome web store, please follow these 
 (3) Turn on developer mode in the top right corner.  
 (4) Select load unpacked and select the unzipped extension folder.  
 (5) Then navigate to a google scholar page and the core pivotal button should appear.
+
+## Disclaimer  
+This extension is provided for illustrative and humor-related purposes. It should not be used by anyone. 
