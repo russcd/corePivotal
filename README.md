@@ -8,7 +8,8 @@ This is a chrome browser extension that computes core pivotal authorship metrics
 
 While I am working on a submission to the chrome web store, please follow these instructions:
 
-(1) Download the extension ```wget https://github.com/russcd/corePivotal/raw/refs/heads/main/corePivotal_0.1.0.zip```  
+(1) Download the extension  
+  ```wget https://github.com/russcd/corePivotal/raw/refs/heads/main/corePivotal_0.1.0.zip```  
 (2) Navigate to chrome://extensions.  
 (3) Turn on developer mode in the top right corner.  
 (4) Select load unpacked and select the unzipped extension folder.  
